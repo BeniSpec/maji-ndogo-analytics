@@ -78,6 +78,9 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Project databases (never publish client data)
+*.db
+
 # IPython
 profile_default/
 ipython_config.py
