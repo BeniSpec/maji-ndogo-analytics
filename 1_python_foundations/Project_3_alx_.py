@@ -2,7 +2,7 @@ import marimo
 
 __generated_with = "0.23.6+alx.1"
 app = marimo.App()
-
+## this for generating the app numerical value
 
 @app.cell
 def _():
